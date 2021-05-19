@@ -231,6 +231,6 @@ public class FXController {
 	protected void setClosed(){
 		this.stopAcquisition();
 	}
-		
+	
 
 }
