@@ -16,6 +16,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/GitHub/zxing/core-3.4.1.jar" sourcepath="D:/GitHub/zxing/core-3.4.1-javadoc.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/GitHub/zxing/core-3.4.1-javadoc.jar!/"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv-4.5.2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv_java452"/>
 	<classpathentry kind="output" path="bin"/>
