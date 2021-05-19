@@ -1,0 +1,30 @@
+Type,No.,Description,Notes
+test,1,testing basic movement,-
+test,2,test QR Scanning,-
+test,3,test QR scanning with more logging,can't find the line that cause the error
+test,4,added more logging,can't find the line that cause the error
+test,5,new undistort method, more logging/Imgproc.undistort crashes the program
+test,6,-,-
+test,7,back to old undistort method, adjusted logging
+test,8,change camdisMat to CvType.CV_64FC1,problem was with mat.put
+test,9,scanning qr using imgproc.distort,imgproc.undistort works
+test,10,crop more resize/ opencv qr reader/opencv qr reader doesn't work,
+test,11,scan qr zxing,something broke after flashlight log
+test,12,"more logging/ minor bug fix""",program seems to crash around zxing
+test,13,more logging,Bitmap.createBitmap doesn't work
+test,14,add +contrast -brightness +sharpen +logging,-
+test,15,add +logging, QRCodeReader to MultiFormatReader
+test,16,this should work,getting intArray crashes the program/ but I think its could be due to memory reason
+test,17,opt memory,didn't help with error but good to be done
+test,18,finding intArray error,found it
+test,19,new intArray getting method,it worked but now it seems like things are too slow and the program got terminated beforehand
+test,20,add +time stamp on logs,-
+test,21,add +elapsedTime since start,-
+test,22,back to normalbitmap,took toolong
+test,23,test0022 but -sharpen -crop3 - crop4,took toolong
+test,24,test0024 back to test0021 +hints,I plan to rewrite the program
+test,25,,
+test,26,,
+test,27,,
+test,28,,
+test,29,,
